@@ -20,6 +20,9 @@ pip install requests dataclasses secrets tkinter turtle numpy matplotlib mysql-c
 
 
 Usage
+
+First you must have MYSQL installed on your computer and after that you much change the password to connect with MYSQL.
+
 Run the script and enter your age, weight, and height when prompted. Then, enter your activity level from the options given: sedentary, lightly active, moderately active, or very active.
 
 The script will then calculate your daily caloric needs and recommended nutrient intakes based on your input.
